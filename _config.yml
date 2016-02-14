@@ -6,7 +6,7 @@
 name:               "Shattered Stars"
 
 # URL
-url:                "http://baskervald.github.io"
+url:                "http://baskervald.github.io/shattered-stars"
 baseurl:            "/shattered-stars"
 permalink:          /shattered-stars/:year/:month/:day/:title.html
 
