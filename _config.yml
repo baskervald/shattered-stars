@@ -6,7 +6,6 @@
 name:               "Shattered Stars"
 
 # URL
-url:                "http://baskervald.github.io"
 baseurl:            "/shattered-stars"
 permalink:          /:year/:month/:day/:title.html
 
@@ -15,10 +14,12 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//baskervald.github.io/shattered-stars/about"
+  - name:           "Synopsis"
+    href:           "//baskervald.github.io/shattered-stars/synopsis"
   - name:           "Table of Contents"
     href:           "//baskervald.github.io/shattered-stars/toc"
+  - name:           "About Me"
+    href:           "//baskervald.github.io/shattered-stars/about-me"
 
 # Sass
 sass:
