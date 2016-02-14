@@ -17,6 +17,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "//baskervald.github.io/shattered-stars/about"
+  - name:           "Table of Contents"
+    href:           "//baskervald.github.io/shattered-stars/toc"
 
 # Sass
 sass:
