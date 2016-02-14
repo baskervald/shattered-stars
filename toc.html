@@ -4,7 +4,9 @@ layout: page
 <div id="toc">
   {% for post in site.posts reversed %}
   {% if post.tags contains 'test' %}
-    <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+    <div class="toc-list-member">
+      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+    </div>
   {% endif %}
   {% endfor %}
 </div>
