@@ -6,9 +6,9 @@
 name:               "Shattered Stars"
 
 # URL
-url:                "http://baskervald.github.io/shattered-stars"
+url:                "http://baskervald.github.io"
 baseurl:            "/shattered-stars"
-permalink:          /shattered-stars/:year/:month/:day/:title.html
+permalink:          /:year/:month/:day/:title.html
 
 # Markdown
 markdown:           kramdown
