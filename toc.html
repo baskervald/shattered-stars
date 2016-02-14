@@ -3,7 +3,7 @@ layout: page
 ---
 <div id="toc">
   {% for post in site.posts reversed %}
-  {% if post.tags contains 'ss' %}
+  {% if post.tags contains 'chapter' %}
     <div class="toc-list-member">
       <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
     </div>
