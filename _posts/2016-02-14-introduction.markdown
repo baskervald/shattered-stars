@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction"
 date: "2016-02-14 12:26:14 -0500"
+tags: "test"
 ---
 
 ### Hi all! I'm Rin.
