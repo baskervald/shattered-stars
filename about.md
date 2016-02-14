@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
+I'm Rin -- the author of Shattered Stars. I don't really consider myself much of an author, but I hope you enjoy the webnovel!
+
+This blog is powered by Kiko.
 
 Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).

@@ -3,22 +3,20 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "Shattered Stars"
 
 # URL
-baseurl:            ""
-#baseurl:            "" #For Root Domain
+url:                "http://baskervald.github.io"
+baseurl:            "/shattered-stars"
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
-markdown:           rdiscount
+markdown:           kramdown
 
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "//baskervald.github.io/about"
 
 # Sass
 sass:
