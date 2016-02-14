@@ -4,7 +4,7 @@ layout: page
 <div id="toc">
   {% for post in site.posts reversed %}
   {% if post.tags contains 'test' %}
-    <a href="{{site.baseurl}}{{post.url}}">{{post.name}}</a>
+    <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
   {% endif %}
   {% endfor %}
 </div>
