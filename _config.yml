@@ -15,11 +15,11 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "Synopsis"
-    href:           "//baskervald.github.io/shattered-stars/synopsis"
+    href:           "/shattered-stars/synopsis"
   - name:           "Table of Contents"
-    href:           "//baskervald.github.io/shattered-stars/toc"
+    href:           "/shattered-stars/toc"
   - name:           "About Me"
-    href:           "//baskervald.github.io/shattered-stars/about-me"
+    href:           "/shattered-stars/about-me"
 
 # Sass
 sass:
