@@ -9,9 +9,11 @@ I'm 18 and a highschool senior, currently, and I've recently found myself incred
 
 I do a lot of programming, and currently know the following languages: Java, Javascript, Python, C, and C++. I'm working on learning Lua and expanding my knowledge of C and C++ right now.
 
-I have a Huion drawing tablet that I do what could questionably be called digital art on occasionally, but I don't post it anywhere because it's pretty bad.
+I have a Huion drawing tablet that I do what could questionably be called digital art occasionally, but I don't post it anywhere because it's pretty bad.
 
 I'm American, 6"1', a Pisces, and, whether you'd believe it from my height or not, a girl.
+
+That's pretty much it, I guess.
 
 ---
 
