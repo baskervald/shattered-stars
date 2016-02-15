@@ -3,10 +3,10 @@
 # # # # # # # #
 
 # Basic
-name:               "Shattered Stars"
+name:               "Shooting Stars"
 
 # URL
-baseurl:            "/shattered-stars"
+baseurl:            "/shooting-stars"
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
@@ -15,11 +15,11 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "Synopsis"
-    href:           "/shattered-stars/synopsis"
+    href:           "/shooting-stars/synopsis"
   - name:           "Table of Contents"
-    href:           "/shattered-stars/toc"
+    href:           "/shooting-stars/toc"
   - name:           "About Me"
-    href:           "/shattered-stars/about-me"
+    href:           "/shooting-stars/about-me"
 
 # Sass
 sass:

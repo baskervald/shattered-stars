@@ -3,7 +3,7 @@ title: About Me
 permalink: /about-me/
 ---
 
-I'm Rin -- the author of Shattered Stars. I don't really consider myself much of an author, but I hope you enjoy what I write nonetheless.
+I'm Rin -- the author of Shooting Stars. I don't really consider myself much of an author, but I hope you enjoy what I write nonetheless.
 
 I'm 18 and a highschool senior, currently, and I've recently found myself incredibly into Chinese webnovels, which is an odd thing to be into, probably, but oh well. You might be able to catch me with my rainbow pill flair over at [/r/noveltranslations](https://reddit.com/r/noveltranslations), going by the name Asterne.
 
